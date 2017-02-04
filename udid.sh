@@ -1,5 +1,6 @@
 #!/bin/sh
 
+##input need
 echo $1
 mobileprovisionFileName=$1
 echo $mobileprovisionFileName
