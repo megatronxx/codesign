@@ -2,7 +2,7 @@
 
 oldipaname="codesigndemo"
 mobileprovisionname="bundle.mobileprovision"
-distributionname="iPhone Developer: gan wang (V2C45S8B76)"
+distributionname="iPhone Developer: *****"
 entitlements="Entitlements.plist"
 
 #解压ipa
